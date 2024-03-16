@@ -240,7 +240,7 @@ systemctl status jenkins
 
 Jenkins will prompt you for a username and password, which were created during the Jenkins installation. To retrieve the initial admin password 
 
-![image](https://drive.google.com/file/d/1vnX8GDgufdHTxiTRvIlpiwe5TgJ_jDKn/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1vnX8GDgufdHTxiTRvIlpiwe5TgJ_jDKn/view?usp=sharing)
 
 ![alt text](image.png)
 
