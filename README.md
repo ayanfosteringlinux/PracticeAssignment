@@ -1,6 +1,4 @@
 
-
-s
 ![image](https://github.com/simranpopli05/Jenkins/assets/153719945/789a9ad6-ad0e-4278-a47b-558601b62276)
 
 
@@ -223,7 +221,10 @@ Processing triggers for man-db (2.10.2-1) ...
   ```bash
   which jenkins
   ```
-     
+
+
+ ![Screenshot from 2024-03-14 00-47-53](https://github.com/ayanfosteringlinux/StuFFs/assets/153751979/d76096fb-bcd2-4ada-a98b-5db2f8bfc967)
+
 
 ## Step 6 Jenkins Status
 
@@ -240,14 +241,23 @@ systemctl status jenkins
 
 Jenkins will prompt you for a username and password, which were created during the Jenkins installation. To retrieve the initial admin password 
 
-![alt text](https://drive.google.com/file/d/1vnX8GDgufdHTxiTRvIlpiwe5TgJ_jDKn/view?usp=sharing)
 
-![alt text](image.png)
 
-![alt text](image.png)
-
-![alt text](image.png)
+![Screenshot from 2024-03-14 00-57-21](https://github.com/ayanfosteringlinux/StuFFs/assets/153751979/f097f2a9-fc74-4d45-8c9a-a80f77a710e1)
 
 
 
-[def]: a.
+![Screenshot from 2024-03-14 01-00-54](https://github.com/ayanfosteringlinux/StuFFs/assets/153751979/918b866d-dacf-4592-8d0c-84a1bea028b6)
+
+
+
+![Screenshot from 2024-03-14 01-01-31](https://github.com/ayanfosteringlinux/StuFFs/assets/153751979/6b2aa3a2-3dca-4622-b8a4-d12380a08f8d)
+
+
+
+![Screenshot from 2024-03-14 01-02-42](https://github.com/ayanfosteringlinux/StuFFs/assets/153751979/b46bf193-69ad-4c42-bccc-98347ea15eb6)
+
+
+
+![Screenshot from 2024-03-14 01-03-05](https://github.com/ayanfosteringlinux/StuFFs/assets/153751979/6e910508-5ed7-4892-a81b-a9dc19237e3b)
+
