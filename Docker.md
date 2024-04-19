@@ -630,7 +630,7 @@ Output:
 
 # Congrats
 
-Now you have successfully installed ```Docsify``` and have initiated ```index.html``` & ```README.md```, you are ready to make a documentation site by writing your content in ```README.md```.
+Now, you have enough knowledge of what Docker is and how it works.
 
 <br>
 
