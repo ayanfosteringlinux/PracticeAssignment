@@ -1,5 +1,5 @@
-﻿![]([Aspose.Words.8d76d37d-7278-49ca-a338-11ea4cfa9b37.001.png)
-![what-is-docker](https://github.com/simranpopli05/Docker/assets/153719945/c58a0455-89a9-41eb-9aa5-75fcbca1dc64)
+![1_JAJ910fg52ODIRZjHXASBQ](https://github.com/ayanfosteringlinux/StuFFs/assets/153751979/0156be78-d677-4187-9d9d-f8396ffda1a8)
+
 
 # Docker
  Prior moving towards what is ```Docker```? , lets start from ```HyperVisor``` as ```Docker``` itself is based on virtualization.
