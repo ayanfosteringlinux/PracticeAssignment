@@ -21,7 +21,7 @@ Jenkins is a continuous integration/continuous delivery (CI/CD) tool that automa
    3 Build with Maven:
         When there's a code change, Jenkins uses Maven to build the code, turning it into a usable application.
 
-  4  Automated Testing with Selenium:
+  4  Automated Testing with Celenium:
         After building, Jenkins hands over the code to Selenium for automatic testing to catch any issues.
 
  5   Store Artifacts in Artifactory:
