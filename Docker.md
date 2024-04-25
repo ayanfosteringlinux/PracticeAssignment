@@ -153,7 +153,7 @@ Docker simplifies the development process by providing a consistent environment 
 
 * Docker client uses commands(CLI) & rest  ```API``` to communicate with docker daemon.
 
-* When a client runs any command on the docker client terminal, the cient terminal sends these docker commands to the docker daemon.
+* When a client runs any command on the docker client terminal, the client terminal sends these docker commands to the docker daemon.
 
 * It is possible for docker client to communicate with more than one daemon.
 
