@@ -8,7 +8,7 @@
 
  >**HyperVisor**
 
- It is a piece of software / firmware that creates and run Virtual-Machine. A ```HyperVisor``` is sometimes also called a ```Virtual Machine Manager```(VMM). It only supports 64-Bit system.
+ It is a piece of software / firmware that creates and run Virtual-Machine. A ```HyperVisor``` is sometimes also called a ```Virtual Machine Manager```(VMM). Hypervisors can support both 32-bit and 64-bit systems, though many modern hypervisors are designed for 64-bit systems due to their enhanced capabilities and performance.
 
  <br>
 
@@ -28,7 +28,7 @@
 * Guest O.S run on another level above ```HyperVisor```.
 * It acts as their own O.S
 
-  <u>Example</u> : VMware ESXi , AWS EC2 etc.
+  <u>Example</u> : VMware ESXi etc.
 
   <br>
 
@@ -79,7 +79,9 @@ Docker simplifies the development process by providing a consistent environment 
 
 # Docker Architecture & Container
 
- * Docker is developed by ```Solomen Hykes``` & ```Sebastian Pahl``` in the month of ```March in 2016```.
+* Docker is developed by ```Solomen Hykes``` & ```Sebastian Pahl``` in the month of ```March in 2013```.
+ 
+* Docker was developed by Solomon Hykes and the team at Docker, Inc. (initially called dotCloud).
 
 * Docker is an open-source centralized platform designed to create, deploy & run applications.
 
