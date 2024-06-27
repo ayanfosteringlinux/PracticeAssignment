@@ -349,7 +349,6 @@ $ docker diff <container-name> <image-name>
 C /usr/bin/python3.9
 A /app/main.py
 D /var/lib/dpkg/status
-M /etc/apt/sources.list
 ```
 <br>
 
@@ -364,7 +363,6 @@ M /etc/apt/sources.list
 
 * **D /var/lib/dpkg/status:** This line signifies that the file /var/lib/dpkg/status has been deleted ```(D)``` from the container.
 
-* **M /etc/apt/sources.list:** This line means the file /etc/apt/sources.list has been modified ```(M)``` inside the container.
 
 <br>
 
